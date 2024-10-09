@@ -32,6 +32,9 @@ A brain disease classification tool using CNN to analyze X-ray images, combined 
 ## Built With
 ...
 
+## Data
+...
+
 ## Contribution
 ...
 
